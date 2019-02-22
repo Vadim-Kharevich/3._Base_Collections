@@ -1,0 +1,9 @@
+D:\Колледж\треннинг\github\FibonacciNums\FibonacciNums\bin\Debug\FibonacciNums.exe.config
+D:\Колледж\треннинг\github\FibonacciNums\FibonacciNums\bin\Debug\FibonacciNums.exe
+D:\Колледж\треннинг\github\FibonacciNums\FibonacciNums\bin\Debug\FibonacciNums.pdb
+D:\Колледж\треннинг\github\FibonacciNums\FibonacciNums\obj\Debug\FibonacciNums.csproj.CoreCompileInputs.cache
+D:\Колледж\треннинг\github\FibonacciNums\FibonacciNums\obj\Debug\FibonacciNums.exe
+D:\Колледж\треннинг\github\FibonacciNums\FibonacciNums\obj\Debug\FibonacciNums.pdb
+D:\Колледж\треннинг\github\FibonacciNums\FibonacciNums\bin\Debug\nunit.framework.dll
+D:\Колледж\треннинг\github\FibonacciNums\FibonacciNums\bin\Debug\nunit.framework.pdb
+D:\Колледж\треннинг\github\FibonacciNums\FibonacciNums\bin\Debug\nunit.framework.xml
